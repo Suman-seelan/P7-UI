@@ -76,7 +76,7 @@ body {
   line-height: 150%;
   -ms-scroll-chaining: none;
       overscroll-behavior: none;
-      scroll-behavior:smooth;
+  scroll-behavior:smooth;
 }
 @media screen and (max-width: 768px) {
   html,
