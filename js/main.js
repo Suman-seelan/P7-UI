@@ -1060,3 +1060,15 @@ function scrollToBottom() {
   function scrollToTop() {
     window.scrollTo(0, 0);
   }
+  //instaLogo
+  function instagramLink(){
+    window.open("https://www.instagram.com/p7_builders/", "_blank");
+  }
+//fbLogo
+  function fbLink(){
+    window.open("https://www.facebook.com/people/P7-Builders/100064068335706/", "_blank");
+  }
+  //YtLogo
+  function ytLink(){
+    window.open("https://www.youtube.com/@p7buildersinteriors876", "_blank");
+  }
