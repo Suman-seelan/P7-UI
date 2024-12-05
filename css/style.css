@@ -1048,6 +1048,8 @@ preloader
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  flex-direction: column;
+  gap: 15px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
