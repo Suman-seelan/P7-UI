@@ -1072,3 +1072,28 @@ function scrollToBottom() {
   function ytLink(){
     window.open("https://www.youtube.com/@p7buildersinteriors876", "_blank");
   }
+  //whatsapp chat
+
+  function chatWithUs(){
+    window.open("https://wa.me/919384404707?text=Hello%20p7!%20Need%20enquiry!","_blank");
+  }
+
+  //<a href="mailto:example@example.com?subject=Inquiry&body=Hi,%20I%20would%20like%20to%20know%20more%20about%20your%20services.">
+  //Send us an email
+ // </a>
+  function gMail(){
+    window.open("mailto:p7builder@gmail.com?subject=Enquiry&body=Hi,%20I%20would%20like%20to%20know%20more%20about%20your%20services.");
+  }
+
+//   function redirectAfterSubmit() {
+//     // Redirect to the desired URL
+//     window.location.href = "https://suman-seelan.github.io/P7-UI/contact.html";
+// }
+// function handleFormSubmit(event) {
+//     event.preventDefault(); // Prevent the default form submission behavior
+//     // Show the success message
+//     document.getElementById("successMessage").style.display = "block";
+//     // Optionally, reset the form fields
+//     document.getElementById("myForm").reset();
+//     return false; // Prevent further processing
+// }
